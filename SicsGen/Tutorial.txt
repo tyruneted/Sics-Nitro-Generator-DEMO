@@ -1,0 +1,4 @@
+1. Open Sics Nitro Generator.exe
+2. Click Generate Random Codes or Generate Saved Codes
+3. The correct/working codes will save to the Valid Codes.txt file.
+4. There you go! Free Nitro and 2 Free Server Boosts.

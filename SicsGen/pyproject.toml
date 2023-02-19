@@ -1,0 +1,20 @@
+[tool.poetry]
+name = "Nitro-Generator-Bot"
+version = "1.2.0"
+description = "nitro generator bot source language python by Persian Caesar"
+authors = ["Mr.SIN RE#1528", "shervinbdndev"]
+
+[tool.poetry.dependencies]
+python = "^3.8"
+discord = "^1.7.3"
+Flask = "^2.0.2"
+PySimpleGUI = "^4.60.4"
+requests = "^2.28.2"
+exrex = "^0.10.5"
+Faker = "^16.6.1"
+
+[tool.poetry.dev-dependencies]
+
+[build-system]
+requires = ["poetry-core>=1.0.0"]
+build-backend = "poetry.core.masonry.api"
